@@ -1,0 +1,16 @@
+{
+  "name": "tubitter",
+  "version": "1.0.0",
+  "description": "Backend of Tubitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jaqvascript",
+    "backend",
+    "tubitter"
+  ],
+  "author": "Atul Shukla",
+  "license": "ISC"
+}
